@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/viber_image_2021-05-26_21-08-22.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/viber_image_2021-05-26_21-08-22.jpg");
   background-position: 50% 50%;
 }
 
@@ -126,18 +126,16 @@
   margin: 20px 399px 0 0;
 }
 
-.u-section-2 .u-form-1 {
-  height: 67px;
-  margin: 20px 0 0;
-}
-
-.u-section-2 .u-form-group-3 {
-  margin-left: 0;
-}
-
 .u-section-2 .u-btn-1 {
-  background-image: none;
   border-style: none;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  margin: 20px auto 0 0;
+  padding: 10px 27px 10px 26px;
+}
+
+.u-section-2 .u-icon-1 {
+  margin-right: 10px;
 }
 
 @media (max-width: 1199px) {
@@ -149,11 +147,6 @@
   .u-section-2 .u-text-2 {
     margin-right: 199px;
     width: 589px;
-  }
-
-  .u-section-2 .u-form-1 {
-    margin-right: initial;
-    margin-left: initial;
   }
 }
 
@@ -836,7 +829,7 @@
 }
 
 .u-section-9 .u-sheet-1 {
-  min-height: 823px;
+  min-height: 873px;
 }
 
 .u-section-9 .u-group-1 {
@@ -856,13 +849,13 @@
 }
 
 .u-section-9 .u-layout-wrap-1 {
-  margin: 28px auto -27px 0;
+  margin: 28px auto 50px 0;
 }
 
 .u-section-9 .u-image-1 {
   min-height: 602px;
   background-image: url("images/viber_image_2021-04-28_20-28-041.jpg");
-  background-position: 50% 100%;
+  background-position: 56.98% 100%;
 }
 
 .u-section-9 .u-layout-cell-2 {
@@ -887,7 +880,7 @@
 }
 
 .u-section-9 .u-text-3 {
-  margin: 20px 0 0;
+  margin: 20px 0 40px;
 }
 
 @media (max-width: 1199px) {
@@ -1055,12 +1048,8 @@
     height: 108px;
     margin-top: 55px;
   }
-
-  .u-section-9 .u-text-3 {
-    margin-bottom: 40px;
-  }
 }.u-section-10 .u-sheet-1 {
-  min-height: 393px;
+  min-height: 500px;
 }
 
 .u-section-10 .u-group-1 {
@@ -1082,18 +1071,16 @@
   margin: 20px 399px 0 0;
 }
 
-.u-section-10 .u-form-1 {
-  height: 67px;
-  margin: 20px 0 0;
-}
-
-.u-section-10 .u-form-group-3 {
-  margin-left: 0;
-}
-
 .u-section-10 .u-btn-1 {
-  background-image: none;
   border-style: none;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  margin: 20px auto 0 0;
+  padding: 10px 27px 10px 26px;
+}
+
+.u-section-10 .u-icon-1 {
+  margin-right: 10px;
 }
 
 @media (max-width: 1199px) {
@@ -1105,11 +1092,6 @@
   .u-section-10 .u-text-2 {
     margin-right: 199px;
     width: 589px;
-  }
-
-  .u-section-10 .u-form-1 {
-    margin-right: initial;
-    margin-left: initial;
   }
 }
 
