@@ -1,0 +1,3 @@
+function oncall() {
+  alert("a");
+}
