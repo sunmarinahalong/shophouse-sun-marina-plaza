@@ -1,3 +1,3 @@
 function oncall() {
-  alert("a");
+  window.open('tel:0856130195');
 }
